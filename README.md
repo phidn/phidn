@@ -58,8 +58,10 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 
-<div align=center>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<div align="center" dir="auto">
+<p dir="auto">
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="assets/quote.svg" alt="Readme Quotes" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" style="max-width: 100%;">
+</a>
+</p>
 </div>
