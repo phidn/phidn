@@ -2,12 +2,6 @@
 
 ## Hey 👋, I'm [Dang Nhat Phi!](https://github.com/phidn/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phidn/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://phidn.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phidnhh)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_dangnhatphi/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/phidnhh)
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=phidn.phidn&style=flat-square&color=0088cc)
 
 </div>
@@ -21,23 +15,35 @@
 <div>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js&logoColor=000000" alt="NextJS logo" title="NextJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React Query-282C34?logo=ReactQuery&logoColor=FF4154" alt="ReactQuery logo" title="ReactQuery" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React Hook Form-282C34?logo=ReactHookForm&logoColor=EC5990" alt="ReactHookForm logo" title="ReactHookForm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=Redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=47A248" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vitest-282C34?logo=vite&logoColor=6E9F18" alt="Vitest logo" title="Vitest" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
